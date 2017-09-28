@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Hai\.android\build-cache\dd64524b9f38ac13c94403abb732d94bb19577e6\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6cbc7773921fcfedbe55657578f0cbfe614778dc">
+        <dex dex="C:\Users\Hai\Desktop\NSDL IMPORTANT\AndroidLoginAndRegistration v2\AndroidLoginAndRegistration v2\AndroidLoginAndRegistration\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_5bcba82b23369ea3fc1e3580dde0fa7964a6ab26\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Hai\Desktop\NSDL IMPORTANT\AndroidLoginAndRegistration v2\AndroidLoginAndRegistration v2\AndroidLoginAndRegistration\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c5f3ba27ec42f564b7f97b417eff6c67d502c4e5">
+        <dex dex="C:\Users\Hai\Desktop\NSDL IMPORTANT\AndroidLoginAndRegistration v2\AndroidLoginAndRegistration v2\AndroidLoginAndRegistration\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_2a0b94de7090502c25891f39ab645869ece5547e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Hai\.android\build-cache\2b6c39a32cbaa454c9da895fb51130a8213b9795\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e40b9a81989bd4a846018551c280f8c4d837bf2e">
+        <dex dex="C:\Users\Hai\Desktop\NSDL IMPORTANT\AndroidLoginAndRegistration v2\AndroidLoginAndRegistration v2\AndroidLoginAndRegistration\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_8fb356b928c9df84b7f2050a95bf69404b6141c0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Hai\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.1.1\support-annotations-23.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8d680ba5a623724d1fb0e81c36a790f023a6cede">
+        <dex dex="C:\Users\Hai\Desktop\NSDL IMPORTANT\AndroidLoginAndRegistration v2\AndroidLoginAndRegistration v2\AndroidLoginAndRegistration\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-23.1.1_b1e209eb6157810a33eedad899e87008f8b84f2d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Hai\.android\build-cache\921d8f5f00cce0122122e8d8741d4af2761d1523\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="09c5e804bc67fc0580360043dff067df574a60d4">
+        <dex dex="C:\Users\Hai\Desktop\NSDL IMPORTANT\AndroidLoginAndRegistration v2\AndroidLoginAndRegistration v2\AndroidLoginAndRegistration\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_8ac4606fd27df5d6dbe846c8776084a6ea71ad49\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Hai\Desktop\NSDL IMPORTANT\AndroidLoginAndRegistration v2\AndroidLoginAndRegistration v2\AndroidLoginAndRegistration\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="C:\Users\Hai\Desktop\NSDL IMPORTANT\AndroidLoginAndRegistration v2\AndroidLoginAndRegistration v2\AndroidLoginAndRegistration\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_f71e4ddb718989cf72cbf7a006cb9608aa77fa3d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Hai\.android\build-cache\dd64524b9f38ac13c94403abb732d94bb19577e6\output\jars\libs\internal_impl-23.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a4de9c81ae239414e1ed0f86441b02abaf29bca9">
+        <dex dex="C:\Users\Hai\Desktop\NSDL IMPORTANT\AndroidLoginAndRegistration v2\AndroidLoginAndRegistration v2\AndroidLoginAndRegistration\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.1.1_19bc419781985ef7bc6a68c0bfd9e37820af3b9f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Hai\.android\build-cache\0851ac96fb56445c7a7366d481e9b7be0132abca\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="379471b2bd17d9737c050345c08e8c7d16589784">
+        <dex dex="C:\Users\Hai\Desktop\NSDL IMPORTANT\AndroidLoginAndRegistration v2\AndroidLoginAndRegistration v2\AndroidLoginAndRegistration\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_960e635bd3b44d3807d94cd4394eac83522f7f89\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Hai\.android\build-cache\25d33ac9288f9d9bd45ae77377419d24f5270a34\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5c5699834e9722f1c288fea2de82725d078ba127">
+        <dex dex="C:\Users\Hai\Desktop\NSDL IMPORTANT\AndroidLoginAndRegistration v2\AndroidLoginAndRegistration v2\AndroidLoginAndRegistration\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_8bae8c9ab463c897399bac20361fb5033169608c\classes.dex" />
+    </item>
+
+</items>

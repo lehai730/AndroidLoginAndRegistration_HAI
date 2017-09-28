@@ -184,7 +184,7 @@ public class CardService extends HostApduService {
         //String account = AccountStorage.GetAccount(this); // Getting text from type in field!!
         byte[] accountBytes = name.getBytes();
 
-
+        //
         int payloadLength = name.length() + 3;           // Length of account number
         int NDEFLength = name.length() + 7;
         String totalLength = Integer.toHexString(NDEFLength);
